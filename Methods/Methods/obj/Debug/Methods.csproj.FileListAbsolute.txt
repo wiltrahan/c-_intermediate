@@ -1,0 +1,6 @@
+/Users/twilorip/Desktop/c#_intermediate/Methods/Methods/bin/Debug/Methods.exe
+/Users/twilorip/Desktop/c#_intermediate/Methods/Methods/bin/Debug/Methods.pdb
+/Users/twilorip/Desktop/c#_intermediate/Methods/Methods/obj/Debug/Methods.csprojResolveAssemblyReference.cache
+/Users/twilorip/Desktop/c#_intermediate/Methods/Methods/obj/Debug/Methods.csproj.CoreCompileInputs.cache
+/Users/twilorip/Desktop/c#_intermediate/Methods/Methods/obj/Debug/Methods.exe
+/Users/twilorip/Desktop/c#_intermediate/Methods/Methods/obj/Debug/Methods.pdb
