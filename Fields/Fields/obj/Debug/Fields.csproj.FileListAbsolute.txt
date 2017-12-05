@@ -1,0 +1,6 @@
+/Users/twilorip/Desktop/c#_intermediate/Fields/Fields/bin/Debug/Fields.exe
+/Users/twilorip/Desktop/c#_intermediate/Fields/Fields/bin/Debug/Fields.pdb
+/Users/twilorip/Desktop/c#_intermediate/Fields/Fields/obj/Debug/Fields.csprojResolveAssemblyReference.cache
+/Users/twilorip/Desktop/c#_intermediate/Fields/Fields/obj/Debug/Fields.csproj.CoreCompileInputs.cache
+/Users/twilorip/Desktop/c#_intermediate/Fields/Fields/obj/Debug/Fields.exe
+/Users/twilorip/Desktop/c#_intermediate/Fields/Fields/obj/Debug/Fields.pdb
