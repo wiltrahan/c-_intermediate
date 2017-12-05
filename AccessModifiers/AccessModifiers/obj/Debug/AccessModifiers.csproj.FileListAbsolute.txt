@@ -1,0 +1,6 @@
+/Users/twilorip/Desktop/c#_intermediate/AccessModifiers/AccessModifiers/bin/Debug/AccessModifiers.exe
+/Users/twilorip/Desktop/c#_intermediate/AccessModifiers/AccessModifiers/bin/Debug/AccessModifiers.pdb
+/Users/twilorip/Desktop/c#_intermediate/AccessModifiers/AccessModifiers/obj/Debug/AccessModifiers.csprojResolveAssemblyReference.cache
+/Users/twilorip/Desktop/c#_intermediate/AccessModifiers/AccessModifiers/obj/Debug/AccessModifiers.csproj.CoreCompileInputs.cache
+/Users/twilorip/Desktop/c#_intermediate/AccessModifiers/AccessModifiers/obj/Debug/AccessModifiers.exe
+/Users/twilorip/Desktop/c#_intermediate/AccessModifiers/AccessModifiers/obj/Debug/AccessModifiers.pdb
