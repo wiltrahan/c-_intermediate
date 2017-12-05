@@ -1,0 +1,6 @@
+/Users/twilorip/Desktop/c#_intermediate/Indexers/Indexers/bin/Debug/Indexers.exe
+/Users/twilorip/Desktop/c#_intermediate/Indexers/Indexers/bin/Debug/Indexers.pdb
+/Users/twilorip/Desktop/c#_intermediate/Indexers/Indexers/obj/Debug/Indexers.csprojResolveAssemblyReference.cache
+/Users/twilorip/Desktop/c#_intermediate/Indexers/Indexers/obj/Debug/Indexers.csproj.CoreCompileInputs.cache
+/Users/twilorip/Desktop/c#_intermediate/Indexers/Indexers/obj/Debug/Indexers.exe
+/Users/twilorip/Desktop/c#_intermediate/Indexers/Indexers/obj/Debug/Indexers.pdb
