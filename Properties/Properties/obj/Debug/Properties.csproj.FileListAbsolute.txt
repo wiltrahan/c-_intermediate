@@ -1,0 +1,6 @@
+/Users/twilorip/Desktop/c#_intermediate/Properties/Properties/bin/Debug/Properties.exe
+/Users/twilorip/Desktop/c#_intermediate/Properties/Properties/bin/Debug/Properties.pdb
+/Users/twilorip/Desktop/c#_intermediate/Properties/Properties/obj/Debug/Properties.csprojResolveAssemblyReference.cache
+/Users/twilorip/Desktop/c#_intermediate/Properties/Properties/obj/Debug/Properties.csproj.CoreCompileInputs.cache
+/Users/twilorip/Desktop/c#_intermediate/Properties/Properties/obj/Debug/Properties.exe
+/Users/twilorip/Desktop/c#_intermediate/Properties/Properties/obj/Debug/Properties.pdb
