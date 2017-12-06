@@ -1,0 +1,8 @@
+/Users/twilorip/Desktop/c#_intermediate/AccessModifiers2/AccessModifiers2/bin/Debug/AccessModifiers2.exe
+/Users/twilorip/Desktop/c#_intermediate/AccessModifiers2/AccessModifiers2/bin/Debug/AccessModifiers2.pdb
+/Users/twilorip/Desktop/c#_intermediate/AccessModifiers2/AccessModifiers2/bin/Debug/Amazon.dll
+/Users/twilorip/Desktop/c#_intermediate/AccessModifiers2/AccessModifiers2/bin/Debug/Amazon.pdb
+/Users/twilorip/Desktop/c#_intermediate/AccessModifiers2/AccessModifiers2/obj/Debug/AccessModifiers2.csprojResolveAssemblyReference.cache
+/Users/twilorip/Desktop/c#_intermediate/AccessModifiers2/AccessModifiers2/obj/Debug/AccessModifiers2.csproj.CoreCompileInputs.cache
+/Users/twilorip/Desktop/c#_intermediate/AccessModifiers2/AccessModifiers2/obj/Debug/AccessModifiers2.exe
+/Users/twilorip/Desktop/c#_intermediate/AccessModifiers2/AccessModifiers2/obj/Debug/AccessModifiers2.pdb
