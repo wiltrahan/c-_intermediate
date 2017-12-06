@@ -1,0 +1,6 @@
+/Users/twilorip/Desktop/c#_intermediate/Composition/Composition/bin/Debug/Composition.exe
+/Users/twilorip/Desktop/c#_intermediate/Composition/Composition/bin/Debug/Composition.pdb
+/Users/twilorip/Desktop/c#_intermediate/Composition/Composition/obj/Debug/Composition.csprojResolveAssemblyReference.cache
+/Users/twilorip/Desktop/c#_intermediate/Composition/Composition/obj/Debug/Composition.csproj.CoreCompileInputs.cache
+/Users/twilorip/Desktop/c#_intermediate/Composition/Composition/obj/Debug/Composition.exe
+/Users/twilorip/Desktop/c#_intermediate/Composition/Composition/obj/Debug/Composition.pdb
