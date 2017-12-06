@@ -1,0 +1,6 @@
+/Users/twilorip/Desktop/c#_intermediate/Casting/Casting/bin/Debug/Casting.exe
+/Users/twilorip/Desktop/c#_intermediate/Casting/Casting/bin/Debug/Casting.pdb
+/Users/twilorip/Desktop/c#_intermediate/Casting/Casting/obj/Debug/Casting.csprojResolveAssemblyReference.cache
+/Users/twilorip/Desktop/c#_intermediate/Casting/Casting/obj/Debug/Casting.csproj.CoreCompileInputs.cache
+/Users/twilorip/Desktop/c#_intermediate/Casting/Casting/obj/Debug/Casting.exe
+/Users/twilorip/Desktop/c#_intermediate/Casting/Casting/obj/Debug/Casting.pdb
