@@ -1,0 +1,6 @@
+/Users/twilorip/Desktop/c#_intermediate/Constructors2/Constructors2/bin/Debug/Constructors2.exe
+/Users/twilorip/Desktop/c#_intermediate/Constructors2/Constructors2/bin/Debug/Constructors2.pdb
+/Users/twilorip/Desktop/c#_intermediate/Constructors2/Constructors2/obj/Debug/Constructors2.csprojResolveAssemblyReference.cache
+/Users/twilorip/Desktop/c#_intermediate/Constructors2/Constructors2/obj/Debug/Constructors2.csproj.CoreCompileInputs.cache
+/Users/twilorip/Desktop/c#_intermediate/Constructors2/Constructors2/obj/Debug/Constructors2.exe
+/Users/twilorip/Desktop/c#_intermediate/Constructors2/Constructors2/obj/Debug/Constructors2.pdb
