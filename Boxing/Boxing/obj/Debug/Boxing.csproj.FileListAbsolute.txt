@@ -1,0 +1,6 @@
+/Users/twilorip/Desktop/c#_intermediate/Boxing/Boxing/bin/Debug/Boxing.exe
+/Users/twilorip/Desktop/c#_intermediate/Boxing/Boxing/bin/Debug/Boxing.pdb
+/Users/twilorip/Desktop/c#_intermediate/Boxing/Boxing/obj/Debug/Boxing.csprojResolveAssemblyReference.cache
+/Users/twilorip/Desktop/c#_intermediate/Boxing/Boxing/obj/Debug/Boxing.csproj.CoreCompileInputs.cache
+/Users/twilorip/Desktop/c#_intermediate/Boxing/Boxing/obj/Debug/Boxing.exe
+/Users/twilorip/Desktop/c#_intermediate/Boxing/Boxing/obj/Debug/Boxing.pdb
