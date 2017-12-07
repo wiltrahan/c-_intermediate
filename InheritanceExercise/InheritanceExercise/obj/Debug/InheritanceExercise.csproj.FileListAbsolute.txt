@@ -1,0 +1,6 @@
+/Users/twilorip/Desktop/c#_intermediate/InheritanceExercise/InheritanceExercise/bin/Debug/InheritanceExercise.exe
+/Users/twilorip/Desktop/c#_intermediate/InheritanceExercise/InheritanceExercise/bin/Debug/InheritanceExercise.pdb
+/Users/twilorip/Desktop/c#_intermediate/InheritanceExercise/InheritanceExercise/obj/Debug/InheritanceExercise.csprojResolveAssemblyReference.cache
+/Users/twilorip/Desktop/c#_intermediate/InheritanceExercise/InheritanceExercise/obj/Debug/InheritanceExercise.csproj.CoreCompileInputs.cache
+/Users/twilorip/Desktop/c#_intermediate/InheritanceExercise/InheritanceExercise/obj/Debug/InheritanceExercise.exe
+/Users/twilorip/Desktop/c#_intermediate/InheritanceExercise/InheritanceExercise/obj/Debug/InheritanceExercise.pdb
