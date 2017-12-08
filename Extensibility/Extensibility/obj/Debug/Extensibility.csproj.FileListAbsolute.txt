@@ -1,0 +1,6 @@
+/Users/twilorip/Desktop/c#_intermediate/Extensibility/Extensibility/bin/Debug/Extensibility.exe
+/Users/twilorip/Desktop/c#_intermediate/Extensibility/Extensibility/bin/Debug/Extensibility.pdb
+/Users/twilorip/Desktop/c#_intermediate/Extensibility/Extensibility/obj/Debug/Extensibility.csprojResolveAssemblyReference.cache
+/Users/twilorip/Desktop/c#_intermediate/Extensibility/Extensibility/obj/Debug/Extensibility.csproj.CoreCompileInputs.cache
+/Users/twilorip/Desktop/c#_intermediate/Extensibility/Extensibility/obj/Debug/Extensibility.exe
+/Users/twilorip/Desktop/c#_intermediate/Extensibility/Extensibility/obj/Debug/Extensibility.pdb
