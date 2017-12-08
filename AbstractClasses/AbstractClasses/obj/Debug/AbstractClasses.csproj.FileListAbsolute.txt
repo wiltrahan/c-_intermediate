@@ -1,0 +1,6 @@
+/Users/twilorip/Desktop/c#_intermediate/AbstractClasses/AbstractClasses/obj/Debug/AbstractClasses.csprojResolveAssemblyReference.cache
+/Users/twilorip/Desktop/c#_intermediate/AbstractClasses/AbstractClasses/obj/Debug/AbstractClasses.csproj.CoreCompileInputs.cache
+/Users/twilorip/Desktop/c#_intermediate/AbstractClasses/AbstractClasses/bin/Debug/AbstractClasses.exe
+/Users/twilorip/Desktop/c#_intermediate/AbstractClasses/AbstractClasses/bin/Debug/AbstractClasses.pdb
+/Users/twilorip/Desktop/c#_intermediate/AbstractClasses/AbstractClasses/obj/Debug/AbstractClasses.exe
+/Users/twilorip/Desktop/c#_intermediate/AbstractClasses/AbstractClasses/obj/Debug/AbstractClasses.pdb
