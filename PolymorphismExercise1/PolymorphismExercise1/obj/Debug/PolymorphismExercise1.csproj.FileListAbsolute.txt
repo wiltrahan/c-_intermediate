@@ -1,0 +1,6 @@
+/Users/twilorip/Desktop/c#_intermediate/PolymorphismExercise1/PolymorphismExercise1/bin/Debug/PolymorphismExercise1.exe
+/Users/twilorip/Desktop/c#_intermediate/PolymorphismExercise1/PolymorphismExercise1/bin/Debug/PolymorphismExercise1.pdb
+/Users/twilorip/Desktop/c#_intermediate/PolymorphismExercise1/PolymorphismExercise1/obj/Debug/PolymorphismExercise1.csprojResolveAssemblyReference.cache
+/Users/twilorip/Desktop/c#_intermediate/PolymorphismExercise1/PolymorphismExercise1/obj/Debug/PolymorphismExercise1.csproj.CoreCompileInputs.cache
+/Users/twilorip/Desktop/c#_intermediate/PolymorphismExercise1/PolymorphismExercise1/obj/Debug/PolymorphismExercise1.exe
+/Users/twilorip/Desktop/c#_intermediate/PolymorphismExercise1/PolymorphismExercise1/obj/Debug/PolymorphismExercise1.pdb
