@@ -6,7 +6,7 @@ namespace PolymorphismExercise1
     {
         public override void Opened(string connectionString)
         {
-            if (connectionString == null)
+            if (String.IsNullOrWhiteSpace(connectionString))
             {
                 throw new InvalidOperationException("No opening string supplied.");
             }
@@ -16,7 +16,7 @@ namespace PolymorphismExercise1
 
         public override void Closed(string closingString)
         {
-            if (closingString == null)
+            if (String.IsNullOrWhiteSpace(closingString))
             {
                 throw new InvalidOperationException("No closing string supplied.");
             }

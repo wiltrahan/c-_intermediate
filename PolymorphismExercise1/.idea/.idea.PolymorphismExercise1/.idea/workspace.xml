@@ -2,14 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f413feb-c2ac-4bdf-822b-72de8e64f3cc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.PolymorphismExercise1/.idea/contentModel.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.PolymorphismExercise1/.idea/indexLayout.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.PolymorphismExercise1/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.PolymorphismExercise1/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.PolymorphismExercise1/riderModule.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PolymorphismExercise1/DbConnection.cs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PolymorphismExercise1/OracleConnection.cs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PolymorphismExercise1/SqlConnection.cs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../AbstractClasses/.idea/.idea.AbstractClasses/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../AbstractClasses/.idea/.idea.AbstractClasses/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../AccessModifiers2/.idea/.idea.AccessModifiers2/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../AccessModifiers2/.idea/.idea.AccessModifiers2/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Boxing/.idea/.idea.Boxing/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Boxing/.idea/.idea.Boxing/.idea/workspace.xml" />
@@ -19,6 +11,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Inheritance/.idea/.idea.Inheritance/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Inheritance/.idea/.idea.Inheritance/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../InheritanceExercise/.idea/.idea.InheritanceExercise/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../InheritanceExercise/.idea/.idea.InheritanceExercise/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../MethodOverriding/.idea/.idea.MethodOverriding/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../MethodOverriding/.idea/.idea.MethodOverriding/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.PolymorphismExercise1/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.PolymorphismExercise1/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -29,7 +22,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PolymorphismExercise1/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
@@ -61,7 +54,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OracleConnection.cs" pinned="false" current-in-tab="false">
+      <file leaf-file-name="OracleConnection.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/PolymorphismExercise1/OracleConnection.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="345">
@@ -198,12 +191,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1512753804383</updated>
-      <workItem from="1512753806766" duration="2036000" />
+      <workItem from="1512753806766" duration="2288000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2036000" />
+    <option name="totallyTimeSpent" value="2288000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -223,8 +216,8 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28209934" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28209934" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09559513" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29803187" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -252,13 +245,15 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/PolymorphismExercise1/DbConnection.cs">
+    <entry file="file://$PROJECT_DIR$/PolymorphismExercise1/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        <state relative-caret-position="330">
+          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
           <folding>
-            <marker date="1512755496254" expanded="true" signature="46:324" ph="{...}" />
-            <marker date="1512755496254" expanded="true" signature="87:322" ph="{...}" />
+            <marker date="1512756569470" expanded="true" signature="6:86" ph="..." />
+            <marker date="1512756569470" expanded="true" signature="119:656" ph="{...}" />
+            <marker date="1512756569470" expanded="true" signature="155:654" ph="{...}" />
+            <marker date="1512756569470" expanded="true" signature="208:648" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -278,6 +273,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/PolymorphismExercise1/DbConnection.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <marker date="1512755496254" expanded="true" signature="46:324" ph="{...}" />
+            <marker date="1512755496254" expanded="true" signature="87:322" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/PolymorphismExercise1/OracleConnection.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -289,19 +295,6 @@
             <marker date="1512756492543" expanded="true" signature="216:328" ph="{...}" />
             <marker date="1512756492543" expanded="true" signature="458:678" ph="{...}" />
             <marker date="1512756492543" expanded="true" signature="507:619" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PolymorphismExercise1/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-          <folding>
-            <marker date="1512756569470" expanded="true" signature="6:86" ph="..." />
-            <marker date="1512756569470" expanded="true" signature="119:656" ph="{...}" />
-            <marker date="1512756569470" expanded="true" signature="155:654" ph="{...}" />
-            <marker date="1512756569470" expanded="true" signature="208:648" ph="{...}" />
           </folding>
         </state>
       </provider>
