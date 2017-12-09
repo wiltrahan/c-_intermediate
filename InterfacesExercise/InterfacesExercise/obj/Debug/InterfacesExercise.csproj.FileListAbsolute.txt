@@ -1,0 +1,6 @@
+/Users/twilorip/Desktop/c#_intermediate/InterfacesExercise/InterfacesExercise/bin/Debug/InterfacesExercise.exe
+/Users/twilorip/Desktop/c#_intermediate/InterfacesExercise/InterfacesExercise/bin/Debug/InterfacesExercise.pdb
+/Users/twilorip/Desktop/c#_intermediate/InterfacesExercise/InterfacesExercise/obj/Debug/InterfacesExercise.csprojResolveAssemblyReference.cache
+/Users/twilorip/Desktop/c#_intermediate/InterfacesExercise/InterfacesExercise/obj/Debug/InterfacesExercise.csproj.CoreCompileInputs.cache
+/Users/twilorip/Desktop/c#_intermediate/InterfacesExercise/InterfacesExercise/obj/Debug/InterfacesExercise.exe
+/Users/twilorip/Desktop/c#_intermediate/InterfacesExercise/InterfacesExercise/obj/Debug/InterfacesExercise.pdb
