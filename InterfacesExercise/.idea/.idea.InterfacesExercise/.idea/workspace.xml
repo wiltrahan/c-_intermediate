@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bfeaaecc-a848-488b-a9e3-c5487193d7d6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.InterfacesExercise/.idea/contentModel.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.InterfacesExercise/.idea/indexLayout.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.InterfacesExercise/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.InterfacesExercise/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.InterfacesExercise/riderModule.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/InterfacesExercise/IExecute.cs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/InterfacesExercise/Messages.cs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/InterfacesExercise/Video.cs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/InterfacesExercise/Workflow.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/InterfacesExercise/bin/Debug/InterfacesExercise.exe" afterPath="$PROJECT_DIR$/InterfacesExercise/bin/Debug/InterfacesExercise.exe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/InterfacesExercise/bin/Debug/InterfacesExercise.pdb" afterPath="$PROJECT_DIR$/InterfacesExercise/bin/Debug/InterfacesExercise.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/InterfacesExercise/obj/Debug/InterfacesExercise.exe" afterPath="$PROJECT_DIR$/InterfacesExercise/obj/Debug/InterfacesExercise.exe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/InterfacesExercise/obj/Debug/InterfacesExercise.pdb" afterPath="$PROJECT_DIR$/InterfacesExercise/obj/Debug/InterfacesExercise.pdb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../AbstractClasses/.idea/.idea.AbstractClasses/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../AbstractClasses/.idea/.idea.AbstractClasses/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../AccessModifiers2/.idea/.idea.AccessModifiers2/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../AccessModifiers2/.idea/.idea.AccessModifiers2/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Boxing/.idea/.idea.Boxing/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Boxing/.idea/.idea.Boxing/.idea/workspace.xml" />
@@ -20,6 +15,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Extensibility/.idea/.idea.Extensibility/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Extensibility/.idea/.idea.Extensibility/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Inheritance/.idea/.idea.Inheritance/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Inheritance/.idea/.idea.Inheritance/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../InheritanceExercise/.idea/.idea.InheritanceExercise/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../InheritanceExercise/.idea/.idea.InheritanceExercise/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.InterfacesExercise/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.InterfacesExercise/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../MethodOverriding/.idea/.idea.MethodOverriding/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../MethodOverriding/.idea/.idea.MethodOverriding/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Polymorphism/.idea/.idea.Polymorphism/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Polymorphism/.idea/.idea.Polymorphism/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../PolymorphismExercise1/.idea/.idea.PolymorphismExercise1/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../PolymorphismExercise1/.idea/.idea.PolymorphismExercise1/.idea/workspace.xml" />
@@ -34,7 +30,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/InterfacesExercise/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
@@ -53,13 +49,12 @@
         <entry file="file://$PROJECT_DIR$/InterfacesExercise/Messages.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding>
-                <marker date="1512857241038" expanded="true" signature="43:591" ph="{...}" />
-                <marker date="1512857241038" expanded="true" signature="82:589" ph="{...}" />
-                <marker date="1512857241038" expanded="true" signature="132:251" ph="{...}" />
-                <marker date="1512857241038" expanded="true" signature="302:421" ph="{...}" />
-                <marker date="1512857241038" expanded="true" signature="467:583" ph="{...}" />
+                <marker date="1513019815764" expanded="true" signature="82:589" ph="{...}" />
+                <marker date="1513019815764" expanded="true" signature="132:251" ph="{...}" />
+                <marker date="1513019815764" expanded="true" signature="302:421" ph="{...}" />
+                <marker date="1513019815764" expanded="true" signature="467:583" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -69,12 +64,12 @@
         <entry file="file://$PROJECT_DIR$/InterfacesExercise/Workflow.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
-              <caret line="21" column="1" lean-forward="false" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+              <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
               <folding>
-                <marker date="1512857023279" expanded="true" signature="43:647" ph="{...}" />
-                <marker date="1512857023279" expanded="true" signature="71:645" ph="{...}" />
-                <marker date="1512857023279" expanded="true" signature="162:214" ph="{...}" />
-                <marker date="1512857023279" expanded="true" signature="270:635" ph="{...}" />
+                <marker date="1513019815859" expanded="true" signature="43:647" ph="{...}" />
+                <marker date="1513019815859" expanded="true" signature="71:645" ph="{...}" />
+                <marker date="1513019815859" expanded="true" signature="162:214" ph="{...}" />
+                <marker date="1513019815859" expanded="true" signature="270:635" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -84,10 +79,10 @@
         <entry file="file://$PROJECT_DIR$/InterfacesExercise/IExecute.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="8" column="1" lean-forward="false" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+              <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
               <folding>
-                <marker date="1512856942183" expanded="true" signature="28:195" ph="{...}" />
-                <marker date="1512856942183" expanded="true" signature="60:193" ph="{...}" />
+                <marker date="1513019815888" expanded="true" signature="28:195" ph="{...}" />
+                <marker date="1513019815888" expanded="true" signature="60:193" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -97,11 +92,11 @@
         <entry file="file://$PROJECT_DIR$/InterfacesExercise/Video.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
-              <caret line="15" column="1" lean-forward="false" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+              <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
               <folding>
-                <marker date="1512856743682" expanded="true" signature="43:303" ph="{...}" />
-                <marker date="1512856743682" expanded="true" signature="68:301" ph="{...}" />
-                <marker date="1512856743682" expanded="true" signature="222:295" ph="{...}" />
+                <marker date="1513019815921" expanded="true" signature="43:303" ph="{...}" />
+                <marker date="1513019815921" expanded="true" signature="68:301" ph="{...}" />
+                <marker date="1513019815921" expanded="true" signature="222:295" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -137,8 +132,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="205" />
-    <option name="y" value="99" />
+    <option name="x" value="198" />
+    <option name="y" value="23" />
     <option name="width" value="1109" />
     <option name="height" value="806" />
   </component>
@@ -160,6 +155,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -173,7 +169,6 @@
         <option name="show-file-system" value="false" />
         <option name="show-all-items" value="false" />
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -216,12 +211,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1512847006443</updated>
-      <workItem from="1512847007650" duration="10108000" />
+      <workItem from="1512847007650" duration="10562000" />
+      <workItem from="1513019809963" duration="339000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10108000" />
+    <option name="totallyTimeSpent" value="10901000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -233,28 +229,27 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="205" y="99" width="1109" height="806" extended-state="0" />
-    <editor active="true" />
+    <frame x="198" y="23" width="1109" height="806" extended-state="0" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.82755387" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.82755387" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Change Signature" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08903468" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.089971885" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29803187" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3994374" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3994374" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Change Signature" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -273,29 +268,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/InterfacesExercise/Video.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="1" lean-forward="false" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-          <folding>
-            <marker date="1512856743682" expanded="true" signature="43:303" ph="{...}" />
-            <marker date="1512856743682" expanded="true" signature="68:301" ph="{...}" />
-            <marker date="1512856743682" expanded="true" signature="222:295" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/InterfacesExercise/IExecute.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="1" lean-forward="false" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-          <folding>
-            <marker date="1512856942183" expanded="true" signature="28:195" ph="{...}" />
-            <marker date="1512856942183" expanded="true" signature="60:193" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/InterfacesExercise/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -313,11 +285,10 @@
         <state relative-caret-position="255">
           <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding>
-            <marker date="1512857241038" expanded="true" signature="43:591" ph="{...}" />
-            <marker date="1512857241038" expanded="true" signature="82:589" ph="{...}" />
-            <marker date="1512857241038" expanded="true" signature="132:251" ph="{...}" />
-            <marker date="1512857241038" expanded="true" signature="302:421" ph="{...}" />
-            <marker date="1512857241038" expanded="true" signature="467:583" ph="{...}" />
+            <marker date="1513019815764" expanded="true" signature="82:589" ph="{...}" />
+            <marker date="1513019815764" expanded="true" signature="132:251" ph="{...}" />
+            <marker date="1513019815764" expanded="true" signature="302:421" ph="{...}" />
+            <marker date="1513019815764" expanded="true" signature="467:583" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -327,10 +298,94 @@
         <state relative-caret-position="315">
           <caret line="21" column="1" lean-forward="false" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
           <folding>
-            <marker date="1512857023279" expanded="true" signature="43:647" ph="{...}" />
-            <marker date="1512857023279" expanded="true" signature="71:645" ph="{...}" />
-            <marker date="1512857023279" expanded="true" signature="162:214" ph="{...}" />
-            <marker date="1512857023279" expanded="true" signature="270:635" ph="{...}" />
+            <marker date="1513019815859" expanded="true" signature="43:647" ph="{...}" />
+            <marker date="1513019815859" expanded="true" signature="71:645" ph="{...}" />
+            <marker date="1513019815859" expanded="true" signature="162:214" ph="{...}" />
+            <marker date="1513019815859" expanded="true" signature="270:635" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfacesExercise/IExecute.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="1" lean-forward="false" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding>
+            <marker date="1513019815888" expanded="true" signature="28:195" ph="{...}" />
+            <marker date="1513019815888" expanded="true" signature="60:193" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfacesExercise/Video.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="1" lean-forward="false" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding>
+            <marker date="1513019815921" expanded="true" signature="43:303" ph="{...}" />
+            <marker date="1513019815921" expanded="true" signature="68:301" ph="{...}" />
+            <marker date="1513019815921" expanded="true" signature="222:295" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfacesExercise/Messages.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <marker date="1513019815764" expanded="true" signature="82:589" ph="{...}" />
+            <marker date="1513019815764" expanded="true" signature="132:251" ph="{...}" />
+            <marker date="1513019815764" expanded="true" signature="302:421" ph="{...}" />
+            <marker date="1513019815764" expanded="true" signature="467:583" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfacesExercise/IExecute.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding>
+            <marker date="1513019815888" expanded="true" signature="28:195" ph="{...}" />
+            <marker date="1513019815888" expanded="true" signature="60:193" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfacesExercise/Video.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding>
+            <marker date="1513019815921" expanded="true" signature="43:303" ph="{...}" />
+            <marker date="1513019815921" expanded="true" signature="68:301" ph="{...}" />
+            <marker date="1513019815921" expanded="true" signature="222:295" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfacesExercise/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding>
+            <marker date="1512856743689" expanded="true" signature="44:356" ph="{...}" />
+            <marker date="1512856743689" expanded="true" signature="73:354" ph="{...}" />
+            <marker date="1512856743689" expanded="true" signature="126:348" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfacesExercise/Workflow.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+          <folding>
+            <marker date="1513019815859" expanded="true" signature="43:647" ph="{...}" />
+            <marker date="1513019815859" expanded="true" signature="71:645" ph="{...}" />
+            <marker date="1513019815859" expanded="true" signature="162:214" ph="{...}" />
+            <marker date="1513019815859" expanded="true" signature="270:635" ph="{...}" />
           </folding>
         </state>
       </provider>
